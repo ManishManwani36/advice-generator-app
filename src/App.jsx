@@ -1,11 +1,12 @@
 import './App.css';
+import AdviceCard from './components/AdviceCard';
 
 function App() {
   return (
     <>
-      <h1>
-        Hello Advice app
-      </h1>
+      <main>
+        <AdviceCard />
+      </main>
     </>
   );
 }

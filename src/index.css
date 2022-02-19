@@ -6,3 +6,8 @@
   box-sizing: border-box;
   font-family: 'Manrope', sans-serif;
 }
+
+body{
+  background-color: #202632;
+  color: hsl(193, 38%, 86%) ;
+}
